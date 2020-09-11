@@ -1,5 +1,5 @@
 # What is.
-runorfocus is a shell script in i3-wm or i3-gaps, to launch an app , if it's already running, focus the app.
+runorfocus is a shell script in i3-wm or i3-gaps to launch an app, and if it's already running, focus the app.
 # How to.
 1.0 copy the *.sh file to your $PATH, normally any */bin_directory.  
 2.0 give it permission to run.  
