@@ -9,4 +9,4 @@ runorfocus is a shell script in i3-wm or i3-gaps to launch an app, and if it's a
   bindsym $mod+w              exec rof-browser.sh
 ```
 4.0 if you haven't set system variables for $BROWSER, use the $APP_NAME instead.  
-5.0 if it's terminal app, like vim, use instance=vim instead.  
+5.0 if it's terminal app, like vim, use "title=VIM" instead of class=$BROWSER.  
